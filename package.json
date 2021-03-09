@@ -1,0 +1,25 @@
+{
+  "name": "giga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "discord-auditlog": "^2.2.3",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.12.2",
+    "dispatcher": "0.0.2",
+    "lyrics-finder": "^21.7.0",
+    "node-fetch": "^2.6.1",
+    "random-puppy": "^1.1.0",
+    "reconlx": "^1.1.0",
+    "ytdl-core": "^4.4.5",
+    "ytpl": "^2.0.5",
+    "ytsearcher": "^1.2.3"
+  }
+}
