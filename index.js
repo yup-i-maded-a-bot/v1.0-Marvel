@@ -6,7 +6,7 @@ const mongoose = require('mongoose');
 const { YTSearcher } = require('ytsearcher');
 const fs = require('fs')
 const searcher = new YTSearcher({
-    key: "AIzaSyAI6NtlLDdDiHYf1lE4OJnkQJDrOF0FZ98",
+    key: "your_key_here",
     revealed: true
 });
  
@@ -109,4 +109,4 @@ client.on("message", async(message) => {
 
   
 
-client.login("ODEwNDM3MjM1Nzg2MzgzMzYw.YCjofg.b-EIUeK0G8CMExfCN87Xtt8FwTA");
+client.login(your_token_here);
